@@ -188,11 +188,3 @@ gcj02ToWgs84(lng: number, lat: number)
 ### 动画不播放
 - 确保轨迹点数 ≥ 2
 - 检查 `simplifiedCoords` 是否为空
-
-## 📄 许可证
-
-MIT License
-
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
